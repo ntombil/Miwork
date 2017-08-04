@@ -1,0 +1,16 @@
+<resources>
+    <!--title for the application [CHAR LIMIT=12]-->
+    <string name="app_name">Miwork</string>
+
+    <!--category name for phrase [CHAR LIMIT=20]-->
+    <string name="catagory_phrases">Phrase</string>
+
+    <!--category name for colors [CHAR LIMIT=20]-->
+    <string name="catagory_colors">Color</string>
+
+    <!--category name for numbers [CHAR LIMIT=20]-->
+    <string name="catagory_Numbers">Number</string>
+
+    <!--category name for family [CHAR LIMIT=20]-->
+    <string name="catagory_family">Family</string>
+</resources>
